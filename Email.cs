@@ -1,5 +1,6 @@
 ﻿namespace knightmoves;
 public class Email
 {
-    // Add your code here
+    public string introduction = $@"oibgoidfbhgoiufhbg
+        fougbs\'rougb'\, \"sdoigub\", \n + \\";
 }
