@@ -1,6 +1,5 @@
 ﻿namespace knightmoves;
 public class Email
 {
-    public const string introduction = "oibgoidfbhgoiufhbg fougbs\'rougb'\, \"sdoigub\", \n" + 
-        "\tousdgbsfuigb \\" + @"\\"
+    public string introduction = "Done\n fun\t hi\' spin\" fin\\";
 }
