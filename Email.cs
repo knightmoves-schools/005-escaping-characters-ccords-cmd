@@ -2,7 +2,5 @@
 public class Email
 {
     public string introduction = "oibgoidfbhgoiufhbg fougbs\'rougb'\, \"sdoigub\", \n" + 
-        "\tousdgbsfuigb\\";
+        "\tousdgbsfuigb :\\";
 }
-
-should include a backslash within introduction
