@@ -1,5 +1,6 @@
 ﻿namespace knightmoves;
 public class Email
 {
-    public string introduction = "Done\n fun\t hi\' spin\" fin\\";
+    // Add your code here
+    public string Introduction = "Done\n fun\t hi\' spin\" fin\\";
 }
